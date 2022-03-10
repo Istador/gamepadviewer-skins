@@ -1,0 +1,7 @@
+.controller.custom:not(.disconnected){
+  background-image: url(silver.svg);
+}
+
+.custom .arrows > * {
+  filter: saturate(0) brightness(0.8);
+}
