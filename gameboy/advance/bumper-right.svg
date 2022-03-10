@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg enable-background="new 0 0 570.791 192.118" viewBox="0 0 19.015624 7.4550783" version="1.1" id="svg179" sodipodi:docname="gba2.svg" width="19.015625" height="7.4550781" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <metadata id="metadata185">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs id="defs183" />
+  <sodipodi:namedview pagecolor="#ffffff" bordercolor="#666666" borderopacity="1" objecttolerance="10" gridtolerance="10" guidetolerance="10" inkscape:pageopacity="0" inkscape:pageshadow="2" inkscape:window-width="1654" inkscape:window-height="1001" id="namedview181" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="9.0089622" inkscape:cx="-12.931567" inkscape:cy="30.081156" inkscape:window-x="2075" inkscape:window-y="11" inkscape:window-maximized="0" inkscape:current-layer="svg179" inkscape:pagecheckerboard="0" />
+  <linearGradient id="a" gradientUnits="userSpaceOnUse" x1="167.8232" x2="167.8232" y1="192.1181" y2="0" gradientTransform="matrix(0.29757469,0,0,0.29757469,1.2821567e-4,0)">
+    <stop offset="0" stop-color="#493575" id="stop2" />
+    <stop offset="1" stop-color="#4d407b" id="stop4" />
+  </linearGradient>
+  <path id="path11" style="fill:#ffcccc;fill-opacity:1;stroke-width:0.297575" d="m 0,0 c 1.479911,0.7845955 3.077334,1.6871942 5.076172,2.4628906 3.65927,1.346525 7.121204,2.0807735 9.839843,2.3828125 1.987081,0.2210423 2.950488,1.5532745 3.277344,2.609375 l 0.822266,-0.4003906 c 0,0 -1.930356,-4.383765 -5.660156,-5.28125 -3.168335,-0.7623821 -10.786196,-1.5236229 -13.355469,-1.7734375 z" />
+</svg>

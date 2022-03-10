@@ -1,0 +1,171 @@
+/* Main */
+.controller.custom {
+  background-size: 100vw auto;
+  background-position: left top;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+.controller.custom:not(.disconnected) {
+  background-image: url(purple.svg);
+}
+.custom.disconnected {
+  background-image: url(disconnected.svg);
+}
+.custom.disconnected div {
+  display: none;
+}
+
+/* Bumpers */
+.custom .bumpers {
+  position: absolute;
+  width: 94.527344vw;
+  height: 7.455078vw;
+  top: 1.851563vw;
+  left: 2.736328vw;
+}
+.custom .bumper {
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  filter: saturate(0);
+}
+.custom .bumper.pressed {
+  filter: unset;
+}
+.custom .bumper.left {
+  background-image: url(bumper-left.svg);
+  width: 18.867187vw;
+  height: 7.388672vw;
+  bottom: 0;
+  left: 0;
+}
+.custom .bumper.right {
+  background-image: url(bumper-right.svg);
+  width: 19.015624vw;
+  height: 7.4550783vw;
+  top: 0;
+  right: 0;
+}
+
+/* Start and Select. */
+.custom .arrows {
+  position: absolute;
+  width: 3.446810vw;
+  height: 8.956410vw;
+  top: 35.878282vw;
+  left: 18.311688vw;
+}
+.custom .start, .custom .back {
+  position: absolute;
+  background-image: url(start.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  width: 3.211730vw;
+  height: 3.211730vw;
+  filter: saturate(0);
+}
+.custom .start.pressed, .custom .back.pressed {
+  filter: unset;
+}
+.custom .start {
+  top: 0;
+  right: 0;
+}
+.custom .back {
+  bottom: 0;
+  left: 0;
+}
+
+/* A and B  */
+.custom .abxy {
+  position: absolute;
+  width: 15.497990vw;
+  height: 9.581902vw;
+  top: 18.648113vw;
+  left: 79.604039vw;
+}
+.custom .button {
+  position: absolute;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  filter: saturate(0);
+}
+.custom .button.pressed {
+  filter: unset;
+}
+.custom .a {
+  background-image: url(a.svg);
+  top: 0;
+  right: 0;
+  width: 6.388040vw;
+  height: 6.387738vw;
+}
+.custom .b {
+  background-image: url(b.svg);
+  bottom: 0;
+  left: 0;
+  width: 6.388040vw;
+  height: 6.387438vw;
+}
+
+/* Dpad */
+.custom .dpad {
+  position: absolute;
+  width: 12.459160vw;
+  height: 12.737385vw;
+  top: 17.195353vw;
+  left: 7.181498vw;
+}
+.custom .dpad::before {
+  content: '';
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  background-image: url(dpad.svg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  filter: saturate(0);
+}
+.custom .face {
+  position: absolute;
+  background-image: url(dpad.svg);
+  background-repeat: no-repeat;
+  background-size: 12.459160vw 12.737385vw;
+  filter: saturate(0);
+}
+.custom .face.pressed {
+  filter: unset;
+}
+.custom .face.up {
+  width: 3.976789vw;
+  height: 4.334175vw;
+  top: 0;
+  left: 4.333881vw;
+  background-position: -4.333881vw 0;
+}
+.custom .face.down {
+  width: 3.976490vw;
+  height: 4.414444vw;
+  /*top: 8.322941vw;*/ bottom: 0;
+  left: 4.334180vw;
+  background-position: -4.334180vw -8.322941vw;
+}
+.custom .face.left {
+  width: 4.333881vw;
+  height: 3.976787vw;
+  left: 0;
+  top: 4.334176vw;
+  background-position: 0 -4.334176vw;
+}
+.custom .face.right {
+  width: 4.148490vw;
+  height: 3.976194vw;
+  top: 4.334176vw;
+  /*left: 8.310669vw;*/ right: 0;
+  background-position: -8.310669vw -4.334176vw;
+}
