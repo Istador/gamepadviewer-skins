@@ -1,0 +1,39 @@
+.controller.disconnected {
+  opacity: 0.5 !important;
+}
+.controller.xbox-old.disconnected {
+  background: url(https://gamepadviewer.com/xbox-assets-old/bg.png);
+}
+.controller.xbox.disconnected {
+  background: url(https://gamepadviewer.com/xbox-assets/base.svgz);
+}
+.controller.xbox.white.disconnected {
+  background: url(https://gamepadviewer.com/xbox-assets/base-white.svgz);
+}
+.controller.ps.disconnected {
+  background: url(https://gamepadviewer.com/ps3-assets/base.png);
+}
+.controller.ps.white.disconnected {
+  background-image: url(https://gamepadviewer.com/ps3-white-assets/base.png);
+}
+.controller.ds4.disconnected {
+  background: url(https://gamepadviewer.com/ps4-assets/base.svgz);
+}
+.controller.ds4.white.disconnected {
+  background-image: url(https://gamepadviewer.com/ps4-white-assets/base.svgz);
+}
+.controller.nes.disconnected {
+  background: url(https://gamepadviewer.com/nes-assets/base.png);
+}
+.controller.fpp.disconnected {
+  background: url(https://gamepadviewer.com/fpp-assets/base.svgz) center;
+}
+.controller.fight-stick.disconnected {
+  background: url(https://gamepadviewer.com/stick-assets/base.svgz) center no-repeat;
+}
+.controller.gc.disconnected {
+  background: url(https://gamepadviewer.com/gc-assets/base.svgz) no-repeat;
+}
+.controller.n64.disconnected {
+  background: url(https://gamepadviewer.com/n64-assets/base.svgz);
+}
