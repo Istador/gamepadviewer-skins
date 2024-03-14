@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="321.99429mm" height="165.99693mm" viewBox="0 0 321.9943 165.99694" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="abxy.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title63815">PS5 DualSense Controller</title>
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="10" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" inkscape:zoom="0.85242554" inkscape:cx="602.98522" inkscape:cy="369.53374" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="87" inkscape:window-y="21" inkscape:window-maximized="0" inkscape:current-layer="g286" inkscape:showpageshadow="false" />
+  <defs id="defs2">
+    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
+    </linearGradient>
+    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
+    </linearGradient>
+    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
+    </linearGradient>
+    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
+    </linearGradient>
+  </defs>
+  <style type="text/css" id="style2">
+	.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}
+</style>
+  <style type="text/css" id="style2-5">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
+</style>
+  <metadata id="metadata63811">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>PS5 DualSense Controller</dc:title>
+        <dc:date>2024-03-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robin Christopher Ladiges</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://rcl.blackpinguin.de/</dc:source>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="g286" inkscape:label="pressed" transform="matrix(3.8978512,0,0,3.8978512,-692.86024,-328.30552)">
+    <g id="g258" inkscape:label="triag_btn" transform="translate(29.651669,37.77246)">
+      <circle style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle254" cx="219.42285" cy="77.753586" r="8.3225279" inkscape:label="triag_bg" />
+      <path style="fill:none;stroke:#40e2a0;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.29735,72.651566 -4.59919,8.184997 h 9.43224 z" id="path256" sodipodi:nodetypes="cccc" inkscape:label="triag_sym" />
+    </g>
+    <g id="g264" inkscape:label="quad_btn" transform="translate(28.662434,18.931304)">
+      <circle style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle260" cx="200.4014" cy="96.594742" r="8.3225279" inkscape:label="quad_bg" />
+      <rect style="fill:none;stroke:#ff69f8;stroke-width:0.799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect262" width="7.9439998" height="7.9439998" x="196.4294" y="92.622742" inkscape:label="quad_sym" />
+    </g>
+    <g id="g270" inkscape:label="circle_btn" transform="translate(-29.21088,19.021445)" style="display:inline">
+      <circle style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle266" cx="238.26402" cy="96.504601" r="8.3225279" inkscape:label="circle_bg" />
+      <circle style="fill:none;stroke:#ff6666;stroke-width:0.799999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle268" cx="238.26402" cy="96.504601" r="4.716116" inkscape:label="circle_sym" />
+    </g>
+    <g id="g284" inkscape:label="x_btn" transform="translate(-30.470562)" style="display:inline">
+      <circle style="opacity:1;fill:#333333;fill-opacity:1;stroke:#1a1a1a;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle272" cx="219.51302" cy="115.52605" r="8.3225279" inkscape:label="x_bg" />
+      <g id="g282" style="fill:none;stroke:#7cb2e8;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="x_sym" transform="translate(0.10222056,-0.28060325)">
+        <path style="fill:none;stroke:#7cb2e8;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 3.83768,3.83767 z" id="path274" inkscape:label="x_bottom_right" />
+        <path style="fill:none;stroke:#7cb2e8;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 -3.83767,3.83768 z" id="path276" inkscape:label="x_bottom_left" />
+        <path style="fill:none;stroke:#7cb2e8;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 3.83767,-3.83768 z" id="path278" inkscape:label="x_top_right" />
+        <path style="fill:none;stroke:#7cb2e8;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 -3.83769,-3.83767 z" id="path280" inkscape:label="x_top_left" />
+      </g>
+    </g>
+  </g>
+  <g id="g26603" inkscape:label="normal" transform="matrix(3.8978512,0,0,3.8978512,-692.86024,-406.30422)">
+    <g id="g26533" inkscape:label="triag_btn" transform="translate(29.651669,37.77246)">
+      <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle5303" cx="219.42285" cy="77.753586" r="8.3225279" inkscape:label="triag_bg" />
+      <path style="fill:none;stroke:#666666;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.29735,72.651566 -4.59919,8.184997 h 9.43224 z" id="path1027" sodipodi:nodetypes="cccc" inkscape:label="triag_sym" />
+    </g>
+    <g id="g26540" inkscape:label="quad_btn" transform="translate(28.662434,18.931304)">
+      <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="path4751" cx="200.4014" cy="96.594742" r="8.3225279" inkscape:label="quad_bg" />
+      <rect style="fill:none;stroke:#666666;stroke-width:0.799999;stroke-miterlimit:4;stroke-dasharray:none" id="rect2069" width="7.9439998" height="7.9439998" x="196.4294" y="92.622742" inkscape:label="quad_sym" />
+    </g>
+    <g id="g26547" inkscape:label="circle_btn" transform="translate(-29.21088,19.021445)" style="display:inline">
+      <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle5476" cx="238.26402" cy="96.504601" r="8.3225279" inkscape:label="circle_bg" />
+      <circle style="fill:none;stroke:#666666;stroke-width:0.799999;stroke-miterlimit:4;stroke-dasharray:none" id="path1692" cx="238.26402" cy="96.504601" r="4.716116" inkscape:label="circle_sym" />
+    </g>
+    <g id="g26558" inkscape:label="x_btn" transform="translate(-30.470562)" style="display:inline">
+      <circle style="opacity:1;fill:#ffffff;fill-opacity:1;stroke:#666666;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none" id="circle5593" cx="219.51302" cy="115.52605" r="8.3225279" inkscape:label="x_bg" />
+      <g id="g2328" style="fill:none;stroke:#666666;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none" inkscape:label="x_sym" transform="translate(0.10222056,-0.28060325)">
+        <path style="fill:none;stroke:#666666;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 3.83768,3.83767 z" id="path2318" inkscape:label="x_bottom_right" />
+        <path style="fill:none;stroke:#666666;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 -3.83767,3.83768 z" id="path2320" inkscape:label="x_bottom_left" />
+        <path style="fill:none;stroke:#666666;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 3.83767,-3.83768 z" id="path2236" inkscape:label="x_top_right" />
+        <path style="fill:none;stroke:#666666;stroke-width:0.8;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.4108,115.80665 -3.83769,-3.83767 z" id="path2322" inkscape:label="x_top_left" />
+      </g>
+    </g>
+  </g>
+</svg>

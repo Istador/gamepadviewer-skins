@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="89.434998mm" height="138.49788mm" viewBox="0 0 89.434997 138.49788" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="meta.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title63815">PS5 DualSense Controller</title>
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="10" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" inkscape:zoom="1.304258" inkscape:cx="167.91156" inkscape:cy="259.9179" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="1978" inkscape:window-y="10" inkscape:window-maximized="0" inkscape:current-layer="svg5" inkscape:showpageshadow="false" lock-margins="true" />
+  <defs id="defs2">
+    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
+    </linearGradient>
+    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
+    </linearGradient>
+    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
+    </linearGradient>
+    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
+    </linearGradient>
+  </defs>
+  <style type="text/css" id="style2">
+	.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}
+</style>
+  <style type="text/css" id="style2-5">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
+</style>
+  <metadata id="metadata63811">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>PS5 DualSense Controller</dc:title>
+        <dc:date>2024-03-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robin Christopher Ladiges</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://rcl.blackpinguin.de/</dc:source>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="g949" inkscape:label="ps_btn_pressed" transform="matrix(3.8978452,0,0,3.8978452,-498.23263,-404.22129)">
+    <path style="fill:#cc0000;fill-opacity:1;stroke:#660000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 137.52036,129.40407 c -2.18449,0.94257 -4.39197,1.83896 -6.51437,2.91785 -0.67124,0.59206 -0.19458,1.70984 0.54242,2.00353 1.55199,0.92263 3.4607,1.04169 5.19593,0.66595 1.09275,-0.099 2.15991,-0.39122 3.14641,-0.87071 1.43724,-0.58606 2.88676,-1.1414 4.32551,-1.72371 -1.92762,0.81163 -3.85523,1.62326 -5.78285,2.43489 -0.51164,0.76058 0.56144,1.4032 1.22105,1.47854 0.99258,0.10787 1.87975,-0.46 2.8235,-0.65947 1.67348,-0.57109 3.30123,-1.26952 4.93129,-1.94977 0.81241,-0.4987 0.55243,-1.83933 -0.27673,-2.17998 -0.98803,-0.57615 -2.14742,-0.78199 -3.27987,-0.69229 -1.18662,0.0501 -2.44369,0.069 -3.49199,0.70258 -0.58754,0.33873 -1.23945,0.53519 -1.91348,0.59684 -1.38553,0.26446 -2.68125,0.84781 -4.0439,1.19709 1.48579,-0.52875 2.97444,-1.04943 4.4613,-1.57515 -0.44805,-0.78208 -0.89626,-1.56406 -1.34422,-2.34619 z" id="path945" inkscape:label="ps_logo_back" />
+    <path style="fill:#cc0000;fill-opacity:1;stroke:#660000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 137.01309,135.44056 c 0,-3.99051 0,-7.98102 0,-11.97153 0.33962,-0.74592 1.26342,-0.29931 1.82491,-0.11009 1.12987,0.38648 2.30499,0.66899 3.39755,1.1476 0.62332,0.32141 1.27566,0.65651 1.61848,1.30489 0.36462,0.5496 0.52526,1.20832 0.4763,1.86239 -0.007,0.7177 0.14854,1.47159 -0.13998,2.15321 -0.18975,0.81902 -1.08263,1.25651 -1.86535,1.2721 -0.58684,-0.0583 -1.44012,-0.0376 -1.69896,-0.68668 -0.0448,-1.3205 0.034,-2.64534 -0.0404,-3.96633 -0.30485,-0.24749 -0.21687,0.76785 -0.22823,1.03875 0.006,2.71761 0.0104,5.43526 -0.005,8.15285 0.17215,0.6333 -0.64351,0.88604 -1.10215,0.62752 -0.76091,-0.23149 -1.4878,-0.56196 -2.23743,-0.82468 z" id="path947" inkscape:label="ps_logo_front" />
+  </g>
+  <g id="g923" inkscape:label="ps_btn_normal" transform="matrix(3.8978452,0,0,3.8978452,-498.23263,-468.47046)" style="display:inline">
+    <path style="fill:#333333;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 137.52036,129.40407 c -2.18449,0.94257 -4.39197,1.83896 -6.51437,2.91785 -0.67124,0.59206 -0.19458,1.70984 0.54242,2.00353 1.55199,0.92263 3.4607,1.04169 5.19593,0.66595 1.09275,-0.099 2.15991,-0.39122 3.14641,-0.87071 1.43724,-0.58606 2.88676,-1.1414 4.32551,-1.72371 -1.92762,0.81163 -3.85523,1.62326 -5.78285,2.43489 -0.51164,0.76058 0.56144,1.4032 1.22105,1.47854 0.99258,0.10787 1.87975,-0.46 2.8235,-0.65947 1.67348,-0.57109 3.30123,-1.26952 4.93129,-1.94977 0.81241,-0.4987 0.55243,-1.83933 -0.27673,-2.17998 -0.98803,-0.57615 -2.14742,-0.78199 -3.27987,-0.69229 -1.18662,0.0501 -2.44369,0.069 -3.49199,0.70258 -0.58754,0.33873 -1.23945,0.53519 -1.91348,0.59684 -1.38553,0.26446 -2.68125,0.84781 -4.0439,1.19709 1.48579,-0.52875 2.97444,-1.04943 4.4613,-1.57515 -0.44805,-0.78208 -0.89626,-1.56406 -1.34422,-2.34619 z" id="path21339" inkscape:label="ps_logo_back" />
+    <path style="fill:#333333;stroke:#000000;stroke-width:0.6;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 137.01309,135.44056 c 0,-3.99051 0,-7.98102 0,-11.97153 0.33962,-0.74592 1.26342,-0.29931 1.82491,-0.11009 1.12987,0.38648 2.30499,0.66899 3.39755,1.1476 0.62332,0.32141 1.27566,0.65651 1.61848,1.30489 0.36462,0.5496 0.52526,1.20832 0.4763,1.86239 -0.007,0.7177 0.14854,1.47159 -0.13998,2.15321 -0.18975,0.81902 -1.08263,1.25651 -1.86535,1.2721 -0.58684,-0.0583 -1.44012,-0.0376 -1.69896,-0.68668 -0.0448,-1.3205 0.034,-2.64534 -0.0404,-3.96633 -0.30485,-0.24749 -0.21687,0.76785 -0.22823,1.03875 0.006,2.71761 0.0104,5.43526 -0.005,8.15285 0.17215,0.6333 -0.64351,0.88604 -1.10215,0.62752 -0.76091,-0.23149 -1.4878,-0.56196 -2.23743,-0.82468 z" id="path20578" inkscape:label="ps_logo_front" />
+  </g>
+</svg>

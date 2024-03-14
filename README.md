@@ -1,6 +1,13 @@
 # Gamepad Viewer Skins
 
 
+## PlayStation 5
+
+### White
+
+[![A screenshot showing a preview of the white PS5 skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps5/white/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps5/white/style.css)
+
+
 ## PlayStation 4
 
 ### Penguin

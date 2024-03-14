@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="296.08984mm" height="122.48846mm" viewBox="0 0 296.08984 122.48847" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="bumpers.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title63815">PS5 DualSense Controller</title>
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="10" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" inkscape:zoom="0.73271205" inkscape:cx="483.13659" inkscape:cy="146.03281" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="109" inkscape:window-y="26" inkscape:window-maximized="0" inkscape:current-layer="svg5" inkscape:showpageshadow="false" />
+  <defs id="defs2">
+    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
+    </linearGradient>
+    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
+    </linearGradient>
+    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
+    </linearGradient>
+    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
+    </linearGradient>
+  </defs>
+  <style type="text/css" id="style2">
+	.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}
+</style>
+  <style type="text/css" id="style2-5">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
+</style>
+  <metadata id="metadata63811">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>PS5 DualSense Controller</dc:title>
+        <dc:date>2024-03-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robin Christopher Ladiges</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://rcl.blackpinguin.de/</dc:source>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="g1246" inkscape:label="pressed" transform="translate(-2.9388548e-6,56.244463)">
+    <g id="g1238" inkscape:label="R1" transform="matrix(3.8978512,0,0,3.8978512,-635.37702,-177.23367)">
+      <path id="path1234" style="fill:#990000;fill-opacity:1;stroke:#660000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 809.63867,182.05469 c -0.61428,-0.007 -1.22931,-0.004 -1.8457,0.004 -13.49499,0.71176 -28.03897,-1.79179 -40.41016,5.03711 -0.87129,5.16401 -1.74198,10.32818 -2.61328,15.49219 3.24028,0.30534 6.52241,0.83745 10.22656,1.375 39.94858,3.10693 78.95403,12.8049 117.85938,21.76563 -1.43647,-7.05878 -3.58316,-15.02499 -5.21289,-16.95508 -7.2652,-5.08627 -15.21188,-9.12984 -23.39063,-12.52539 -17.5339,-6.75472 -35.57054,-13.99055 -54.61328,-14.19336 z" transform="scale(0.26458333)" inkscape:label="top" />
+      <path id="path1236" style="fill:#cc0000;fill-opacity:1;stroke:#660000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 770.9043,195.33008 c -1.6572,-0.009 -3.31183,0.0768 -4.96485,0.32031 -0.39016,2.31246 -0.77984,4.62502 -1.16992,6.9375 3.24028,0.30534 6.52241,0.83745 10.22656,1.375 39.94668,3.10679 78.95001,12.80526 117.85352,21.76563 -0.35533,-1.74364 -0.7459,-3.52924 -1.16992,-5.28125 -1.4166,-3.1361 -4.01874,-5.37568 -8.15625,-5.53907 -14.94407,-4.14809 -29.95178,-8.1508 -45.14453,-11.29687 -17.29641,-3.80246 -34.94312,-5.53016 -52.54688,-7.20313 -4.97004,-0.15457 -9.95614,-1.0506 -14.92773,-1.07812 z" transform="scale(0.26458333)" inkscape:label="bottom" />
+    </g>
+    <g id="g1244" inkscape:label="L1" transform="matrix(3.8978512,0,0,3.8978512,-154.9272,-177.7097)">
+      <path id="path1240" style="display:inline;fill:#990000;fill-opacity:1;stroke:#660000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 249.46094,182.51367 c -1.52978,0.007 -3.05802,0.0337 -4.58594,0.0781 -10.9362,-0.16631 -21.71802,2.08322 -32.05859,5.51953 -17.57459,5.97631 -36.2535,11.22124 -50.48243,23.75781 l -1.82617,12.47852 c 0.33687,-0.0326 0.69894,-0.0447 1.0293,-0.084 31.57863,-6.5381 63.10572,-14.37534 95.10351,-19.1914 10.47873,-0.74688 20.94669,-2.80391 31.38672,-3.46485 0.002,-0.0127 0.002,-0.0265 0.004,-0.0391 -1.61102,-5.50198 -0.35823,-13.41847 -6.63477,-16.2168 -10.49162,-2.00991 -21.22712,-2.88797 -31.93554,-2.83789 z" transform="scale(0.26458333)" inkscape:label="top" />
+      <path id="path1242" style="fill:#cc0000;fill-opacity:1;stroke:#660000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 283.9375,195.44727 c -0.29781,-0.006 -0.6045,0.001 -0.91406,0.0156 -0.82551,0.0381 -1.67813,0.13057 -2.47071,0.19141 -16.03842,0.63245 -32.00101,2.66534 -47.86328,5.04492 -23.10719,4.26537 -46.16332,9.16791 -68.63476,16.07617 -1.75712,0.86718 -2.59138,2.33491 -3.03125,4.05469 l -0.4336,2.96094 c -0.0154,0.18729 -0.0451,0.36627 -0.0586,0.55468 0.33029,-0.031 0.68302,-0.0436 1.00586,-0.082 31.57863,-6.5381 63.10573,-14.37534 95.10351,-19.1914 1.31016,-0.0934 2.61991,-0.2065 3.92969,-0.33594 9.16335,-0.90559 18.31715,-2.56382 27.44922,-3.14258 -0.0564,-0.27478 -0.11342,-0.54945 -0.16992,-0.82422 -0.29315,-1.22282 -0.50118,-2.519 -0.67773,-3.85742 -0.55771,-1.1119 -1.79527,-1.43801 -3.23438,-1.46484 z" transform="scale(0.26458333)" inkscape:label="bottom" />
+    </g>
+  </g>
+  <g id="g1232" inkscape:label="normal">
+    <g id="g26325" inkscape:label="R1" transform="matrix(3.8978512,0,0,3.8978512,-635.37702,-177.23367)">
+      <path id="path25607" style="fill:#1a1a1a;stroke:#000000;stroke-width:1.00157;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 809.63867,182.05469 c -0.61428,-0.007 -1.22931,-0.004 -1.8457,0.004 -13.49499,0.71176 -28.03897,-1.79179 -40.41016,5.03711 -0.87129,5.16401 -1.74198,10.32818 -2.61328,15.49219 3.24028,0.30534 6.52241,0.83745 10.22656,1.375 39.94858,3.10693 78.95403,12.8049 117.85938,21.76563 -1.43647,-7.05878 -3.58316,-15.02499 -5.21289,-16.95508 -7.2652,-5.08627 -15.21188,-9.12984 -23.39063,-12.52539 -17.5339,-6.75472 -35.57054,-13.99055 -54.61328,-14.19336 z" transform="scale(0.26458333)" inkscape:label="top" />
+      <path id="path26050" style="fill:#333333;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 770.9043,195.33008 c -1.6572,-0.009 -3.31183,0.0768 -4.96485,0.32031 -0.39016,2.31246 -0.77984,4.62502 -1.16992,6.9375 3.24028,0.30534 6.52241,0.83745 10.22656,1.375 39.94668,3.10679 78.95001,12.80526 117.85352,21.76563 -0.35533,-1.74364 -0.7459,-3.52924 -1.16992,-5.28125 -1.4166,-3.1361 -4.01874,-5.37568 -8.15625,-5.53907 -14.94407,-4.14809 -29.95178,-8.1508 -45.14453,-11.29687 -17.29641,-3.80246 -34.94312,-5.53016 -52.54688,-7.20313 -4.97004,-0.15457 -9.95614,-1.0506 -14.92773,-1.07812 z" transform="scale(0.26458333)" inkscape:label="bottom" />
+    </g>
+    <g id="g25406" inkscape:label="L1" transform="matrix(3.8978512,0,0,3.8978512,-154.9272,-177.7097)">
+      <path id="path24614" style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 249.46094,182.51367 c -1.52978,0.007 -3.05802,0.0337 -4.58594,0.0781 -10.9362,-0.16631 -21.71802,2.08322 -32.05859,5.51953 -17.57459,5.97631 -36.2535,11.22124 -50.48243,23.75781 l -1.82617,12.47852 c 0.33687,-0.0326 0.69894,-0.0447 1.0293,-0.084 31.57863,-6.5381 63.10572,-14.37534 95.10351,-19.1914 10.47873,-0.74688 20.94669,-2.80391 31.38672,-3.46485 0.002,-0.0127 0.002,-0.0265 0.004,-0.0391 -1.61102,-5.50198 -0.35823,-13.41847 -6.63477,-16.2168 -10.49162,-2.00991 -21.22712,-2.88797 -31.93554,-2.83789 z" transform="scale(0.26458333)" inkscape:label="top" />
+      <path id="path24977" style="fill:#333333;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 283.9375,195.44727 c -0.29781,-0.006 -0.6045,0.001 -0.91406,0.0156 -0.82551,0.0381 -1.67813,0.13057 -2.47071,0.19141 -16.03842,0.63245 -32.00101,2.66534 -47.86328,5.04492 -23.10719,4.26537 -46.16332,9.16791 -68.63476,16.07617 -1.75712,0.86718 -2.59138,2.33491 -3.03125,4.05469 l -0.4336,2.96094 c -0.0154,0.18729 -0.0451,0.36627 -0.0586,0.55468 0.33029,-0.031 0.68302,-0.0436 1.00586,-0.082 31.57863,-6.5381 63.10573,-14.37534 95.10351,-19.1914 1.31016,-0.0934 2.61991,-0.2065 3.92969,-0.33594 9.16335,-0.90559 18.31715,-2.56382 27.44922,-3.14258 -0.0564,-0.27478 -0.11342,-0.54945 -0.16992,-0.82422 -0.29315,-1.22282 -0.50118,-2.519 -0.67773,-3.85742 -0.55771,-1.1119 -1.79527,-1.43801 -3.23438,-1.46484 z" transform="scale(0.26458333)" inkscape:label="bottom" />
+    </g>
+  </g>
+</svg>

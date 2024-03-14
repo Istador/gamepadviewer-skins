@@ -1,0 +1,293 @@
+/* Shell & Disconnected */
+.custom.controller, .custom.controller::after {
+  background-image: url(shell.svg);
+  background-size: 100vw auto;
+  background-position: left top;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100%;
+}
+.custom.controller.disconnected {
+  opacity: 0.75;
+}
+.custom.controller.disconnected::after {
+  content: '';
+  background-image: url(disconnected.svg);
+  position: absolute;
+  opacity: 0.5;
+}
+
+/* L2 & R2 */
+.custom .triggers {
+  position: absolute;
+  width: 74.8782vw;
+  height: 11.6896vw;
+  left: 12.4240vw;
+  top: 0;
+}
+.custom .trigger, .custom .triggers::before, .custom .triggers::after {
+  position: absolute;
+  background-image: url(triggers.svg);
+  background-repeat: no-repeat;
+  background-size: 27.923010vw 26.379214vw;
+  width: 12.4615vw;
+  height: 11.6896vw;
+  top: 0;
+}
+.custom .trigger {
+  background-position-y: -13.6896vw;
+  opacity: 0;
+}
+.custom .triggers::before, .custom .triggers::after {
+  content: '';
+  background-position-y: -1vw;
+  z-index: -1;
+}
+.custom .trigger.left, .custom .triggers::before {
+  left: 0;
+  background-position-x: -1vw;
+}
+.custom .trigger.right, .custom .triggers::after {
+  right: 0;
+  background-position-x: -14.4615vw;
+}
+
+/* L1 & R1 */
+.custom .bumpers {
+  position: absolute;
+  width: 75.6540vw;
+  height: 4.6244vw;
+  left: 12.120vw;
+  top: 12.9371vw;
+}
+.custom .bumper {
+  position: absolute;
+  background-image: url(bumpers.svg);
+  background-repeat: no-repeat;
+  background-size: 29.608984vw 12.248846vw;
+  background-position-y: -1vw;
+}
+.custom .bumper.pressed {
+  background-position-y: -6.6244vw;
+}
+.custom .bumper.left {
+  background-position-x: -1vw;
+  width: 13.2734vw;
+  height: 4.4238vw;
+  left: 0;
+  top: 0.0476vw;
+}
+.custom .bumper.right {
+  background-position-x: -15.2734vw;
+  width: 13.3356vw;
+  height: 4.6244vw;
+  right: 0;
+  top: 0;
+}
+
+/* D-Pad */
+.custom .dpad {
+  position: absolute;
+  width: 16.8593vw;
+  height: 17.0337vw;
+  left: 10.2705vw;
+  top: 23.3223vw;
+}
+.custom .face {
+  position: absolute;
+  background-image: url(dpad.svg);
+  background-repeat: no-repeat;
+  background-size: 31.727148vw 17.604692vw;
+}
+.custom .face.up.pressed, .custom .face.down.pressed {
+  background-position-y: -9.3024vw;
+}
+.custom .face.left.pressed, .custom .face.right.pressed {
+  background-position-y: -9.9229vw;
+}
+.custom .face.up {
+  width: 6.0612vw;
+  height: 7.3023vw;
+  left: 5.4283vw;
+  top: 0;
+  background-position: -1vw -1vw;
+}
+.custom .face.down {
+  width: 6.0612vw;
+  height: 7.3023vw;
+  left: 5.4283vw;
+  bottom: 0;
+  background-position: -8.0613vw -1vw;
+}
+.custom .face.left {
+  width: 7.3023vw;
+  height: 6.0612vw;
+  left: 0;
+  top: 5.5400vw;
+  background-position: -15.1226vw -1.6205vw;
+}
+.custom .face.right {
+  width: 7.3023vw;
+  height: 6.0612vw;
+  right: 0;
+  top: 5.5400vw;
+  background-position: -23.4249vw -1.6205vw;
+}
+
+/* X, Circle, Quad, Triangle */
+.custom .abxy {
+  position: absolute;
+  width: 21.5581vw;
+  height: 21.5230vw;
+  left: 70.3329vw;
+  top: 21.1210vw;
+}
+.custom .button {
+  position: absolute;
+  background-image: url(abxy.svg);
+  background-repeat: no-repeat;
+  background-size: 32.199429vw 16.599693vw;
+  width: 6.7998vw;
+  height: 6.7998vw;
+}
+.custom .button.pressed {
+  background-position-y: -8.7999vw;
+}
+.custom .a {
+  background-position: -1vw -1vw;
+  left: 7.4319vw;
+  bottom: 0;
+}
+.custom .b {
+  background-position: -8.7999vw -1vw;
+  right: 0;
+  top: 7.3264vw;
+}
+.custom .x {
+  background-position: -16.5997vw -1vw;
+  left: 0;
+  top: 7.3264vw;
+}
+.custom .y {
+  background-position: -24.3996vw -1vw;
+  left: 7.4319vw;
+  top: 0;
+}
+
+/* Share & Start */
+.custom .arrows {
+  position: absolute;
+  width: 49.6943vw;
+  height: 4.6901vw;
+  left: 25.1115vw;
+  top: 18.5723vw;
+}
+.custom .back, .custom .start {
+  position: absolute;
+  background-image: url(back_start.svg);
+  background-repeat: no-repeat;
+  background-size: 8.761668vw 12.380259vw;
+  background-position-y: -1vw;
+  width: 2.8808vw;
+  height: 4.6901vw;
+}
+.custom .back {
+  background-position-x: -1vw;
+  left: 0;
+  top: 0;
+}
+.custom .start {
+  background-position-x: -4.8809vw;
+  right: 0;
+  top: 0;
+}
+.custom .back.pressed, .custom .start.pressed {
+  background-position-y: -6.6902vw;
+}
+
+/* Sticks */
+.custom .sticks {
+  position: absolute;
+  width: 42.6867vw;
+  height: 10.6903vw;
+  left: 28.5515vw;
+  top: 40.2216vw;
+}
+.custom .stick {
+  position: absolute;
+  background-image: url(sticks.svg);
+  background-repeat: no-repeat;
+  background-size: 24.380646vw 24.380779vw;
+  background-position-y: -1vw;
+  height: 10.6903vw;
+  width: 10.6903vw;
+}
+.custom .stick.pressed {
+  background-position-y: -12.6905vw;
+}
+.custom .stick.left {
+  background-position-x: -1vw;
+  top: 0;
+  left: 0;
+}
+.custom .stick.right {
+  background-position-x: -12.6903vw;
+  top: 0;
+  left: calc(100% - 10.6903vw);
+}
+
+/* PlayStation logo */
+.custom .meta {
+  position: absolute;
+  width: 6.9435vw;
+  height: 5.4249vw;
+  left: 46.4426vw;
+  top: 42.0609vw;
+  background-image: url(meta.svg);
+  background-repeat: no-repeat;
+  background-size: 8.943500vw 13.849788vw;
+  background-position: -1vw -1vw;
+}
+.custom .meta.pressed {
+  background-position-y: -7.4249vw;
+}
+
+/* Touchpad */
+.custom .touchpad {
+  position: absolute;
+  width: 40.2075vw;
+  height: 21.9137vw;
+  left: 29.8152vw;
+  top: 13.4086vw;
+  background-image: url(touchpad.svg);
+  background-repeat: no-repeat;
+  background-size: 42.207492vw 46.827496vw;
+  background-position: -1vw -1vw;
+}
+.custom .touchpad.pressed {
+  background-position-y: -23.9138vw;
+}
+
+/* Lightbar */
+.custom .quadrant {
+  position: absolute;
+  width: 42.1340vw;
+  height: 21.1098vw;
+  left: 28.9450vw;
+  top: 15.6201vw;
+  background-image: url(lightbar.svg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.custom .quadrant.p0 {
+  filter: hue-rotate(0deg); /* blue */
+}
+.custom .quadrant.p1 {
+  filter: hue-rotate(90deg); /* red */
+}
+.custom .quadrant.p2 {
+  filter: hue-rotate(-120deg); /* green */
+}
+.custom .quadrant.p3 {
+  filter: hue-rotate(30deg); /* purple */
+}

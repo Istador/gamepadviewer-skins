@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="279.2301mm" height="263.79214mm" viewBox="0 0 279.2301 263.79215" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="triggers.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title63815">PS5 DualSense Controller</title>
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="10" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" inkscape:zoom="0.67849484" inkscape:cx="487.84454" inkscape:cy="445.10287" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="94" inkscape:window-y="21" inkscape:window-maximized="0" inkscape:current-layer="svg5" inkscape:showpageshadow="false" width="279.2301mm" height="263.79214mm" />
+  <defs id="defs2">
+    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
+    </linearGradient>
+    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
+    </linearGradient>
+    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
+    </linearGradient>
+    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
+    </linearGradient>
+  </defs>
+  <style type="text/css" id="style2">
+	.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}
+</style>
+  <style type="text/css" id="style2-5">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
+</style>
+  <metadata id="metadata63811">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>PS5 DualSense Controller</dc:title>
+        <dc:date>2024-03-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robin Christopher Ladiges</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://rcl.blackpinguin.de/</dc:source>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="g960" inkscape:label="pressed" transform="translate(-16.744936,126.89631)">
+    <g id="g948" inkscape:label="R2" transform="matrix(3.8978512,0,0,3.8978512,-6.6865569,-47.497219)">
+      <path style="display:inline;fill:#cc0000;fill-opacity:1;stroke:#660000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 74.918673,44.58649 c -0.878429,-5.347649 -2.58994,-10.504644 -4.137613,-15.684515 -0.96982,-3.216611 -1.863235,-6.623368 -4.157014,-9.188272 -1.15438,-1.243426 -2.316677,-2.492785 -3.867885,-3.245082 -3.614372,-2.196026 -8.39497,-2.037035 -12.024209,0.03156 -2.990661,1.929923 -5.231048,5.014176 -6.078446,8.474587 -0.683197,6.121103 -0.898634,12.280005 -1.395227,18.415918 3.251103,-0.558224 6.565047,-0.621051 9.84849,-0.818523 4.433043,5.71e-4 8.886216,-0.07604 13.282017,0.597576 2.870141,0.318192 5.668299,1.050471 8.529887,1.416755 z" id="path940" inkscape:label="top" />
+      <path id="path942" style="display:inline;fill:#990000;fill-opacity:1;stroke:#660000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 57.904578,38.212138 c 2.552203,0.04192 5.113676,0.07723 7.652761,0.352433 2.854828,0.432612 5.783315,0.704911 8.493022,1.759582 0.110143,0.462293 0.217085,0.925081 0.317812,1.389579 l 0.550352,2.872692 c -2.861588,-0.366284 -5.65957,-1.098259 -8.529712,-1.41645 -4.3958,-0.673616 -8.848833,-0.597326 -13.281877,-0.597897 -3.209255,0.193011 -6.447459,0.258852 -9.627835,0.782899 -0.09491,-0.115414 -0.152188,-0.264906 -0.183452,-0.438216 0.07815,-0.993783 0.147895,-1.988116 0.215493,-2.982764 0.531836,-0.584227 1.82173,-0.488828 2.63498,-0.788067 3.868732,-0.755944 7.830391,-0.818285 11.758456,-0.933791 z" inkscape:label="bottom" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#660000;fill-opacity:1;stroke:none;stroke-width:0.264583" x="53.162304" y="35.331207" id="text946" inkscape:label="text"><tspan sodipodi:role="line" id="tspan944" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Kartika;-inkscape-font-specification:'Kartika Bold';fill:#660000;fill-opacity:1;stroke-width:0.264583" x="53.162304" y="35.331207">R2</tspan></text>
+    </g>
+    <g id="g958" inkscape:label="L2" transform="matrix(3.8978512,0,0,3.8978512,-141.30183,-47.497219)">
+      <path style="display:inline;fill:#cc0000;fill-opacity:1;stroke:#660000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 43.276797,44.58649 c 0.878429,-5.347649 2.58994,-10.504644 4.137613,-15.684515 0.96982,-3.216611 1.863235,-6.623368 4.157014,-9.188272 1.15438,-1.243426 2.316677,-2.492785 3.867885,-3.245082 3.614372,-2.196026 8.39497,-2.037035 12.024209,0.03156 2.990661,1.929923 5.231048,5.014176 6.078446,8.474587 0.683197,6.121103 0.898634,12.280005 1.395227,18.415918 -3.251103,-0.558224 -6.565047,-0.621051 -9.84849,-0.818523 -4.433043,5.71e-4 -8.886216,-0.07604 -13.282017,0.597576 -2.870141,0.318192 -5.668299,1.050471 -8.529887,1.416755 z" id="path950" inkscape:label="top" />
+      <path id="path952" style="display:inline;fill:#990000;fill-opacity:1;stroke:#660000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 227.87109,144.42383 c -9.64612,0.15843 -19.32728,0.29191 -28.92382,1.33203 -10.7899,1.63507 -21.8582,2.66423 -32.09961,6.65039 -0.41629,1.74725 -0.82048,3.49637 -1.20118,5.25195 l -2.08007,10.85742 c 10.81545,-1.38438 21.3905,-4.1509 32.23828,-5.35351 16.61405,-2.54595 33.44441,-2.25761 50.19922,-2.25977 12.12947,0.72949 24.36835,0.97834 36.38867,2.95899 0.35873,-0.43621 0.5752,-1.00122 0.69336,-1.65625 -0.29538,-3.75603 -0.55897,-7.51414 -0.81446,-11.27344 -2.01009,-2.2081 -6.88528,-1.84754 -9.95898,-2.97852 -14.62198,-2.85711 -29.59518,-3.09273 -44.44141,-3.52929 z" transform="scale(0.26458333)" sodipodi:insensitive="true" inkscape:label="bottom" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#660000;fill-opacity:1;stroke:none;stroke-width:0.264583" x="56.544556" y="35.532532" id="text956" inkscape:label="text"><tspan sodipodi:role="line" id="tspan954" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Kartika;-inkscape-font-specification:'Kartika Bold';fill:#660000;fill-opacity:1;stroke-width:0.264583" x="56.544556" y="35.532532">L2</tspan></text>
+    </g>
+  </g>
+  <g id="g938" inkscape:label="normal" transform="translate(-16.744936)" style="display:inline">
+    <g id="g57201" inkscape:label="R2" transform="matrix(3.8978512,0,0,3.8978512,-6.6865569,-47.497219)">
+      <path style="display:inline;fill:#333333;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 74.918673,44.58649 c -0.878429,-5.347649 -2.58994,-10.504644 -4.137613,-15.684515 -0.96982,-3.216611 -1.863235,-6.623368 -4.157014,-9.188272 -1.15438,-1.243426 -2.316677,-2.492785 -3.867885,-3.245082 -3.614372,-2.196026 -8.39497,-2.037035 -12.024209,0.03156 -2.990661,1.929923 -5.231048,5.014176 -6.078446,8.474587 -0.683197,6.121103 -0.898634,12.280005 -1.395227,18.415918 3.251103,-0.558224 6.565047,-0.621051 9.84849,-0.818523 4.433043,5.71e-4 8.886216,-0.07604 13.282017,0.597576 2.870141,0.318192 5.668299,1.050471 8.529887,1.416755 z" id="path57193" inkscape:label="top" />
+      <path id="path57195" style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 57.904578,38.212138 c 2.552203,0.04192 5.113676,0.07723 7.652761,0.352433 2.854828,0.432612 5.783315,0.704911 8.493022,1.759582 0.110143,0.462293 0.217085,0.925081 0.317812,1.389579 l 0.550352,2.872692 c -2.861588,-0.366284 -5.65957,-1.098259 -8.529712,-1.41645 -4.3958,-0.673616 -8.848833,-0.597326 -13.281877,-0.597897 -3.209255,0.193011 -6.447459,0.258852 -9.627835,0.782899 -0.09491,-0.115414 -0.152188,-0.264906 -0.183452,-0.438216 0.07815,-0.993783 0.147895,-1.988116 0.215493,-2.982764 0.531836,-0.584227 1.82173,-0.488828 2.63498,-0.788067 3.868732,-0.755944 7.830391,-0.818285 11.758456,-0.933791 z" inkscape:label="bottom" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583" x="53.162304" y="35.331207" id="text57199" inkscape:label="text"><tspan sodipodi:role="line" id="tspan57197" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Kartika;-inkscape-font-specification:'Kartika Bold';stroke-width:0.264583" x="53.162304" y="35.331207">R2</tspan></text>
+    </g>
+    <g id="g57191" inkscape:label="L2" transform="matrix(3.8978512,0,0,3.8978512,-141.30183,-47.497219)">
+      <path style="display:inline;fill:#333333;stroke:#000000;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 43.276797,44.58649 c 0.878429,-5.347649 2.58994,-10.504644 4.137613,-15.684515 0.96982,-3.216611 1.863235,-6.623368 4.157014,-9.188272 1.15438,-1.243426 2.316677,-2.492785 3.867885,-3.245082 3.614372,-2.196026 8.39497,-2.037035 12.024209,0.03156 2.990661,1.929923 5.231048,5.014176 6.078446,8.474587 0.683197,6.121103 0.898634,12.280005 1.395227,18.415918 -3.251103,-0.558224 -6.565047,-0.621051 -9.84849,-0.818523 -4.433043,5.71e-4 -8.886216,-0.07604 -13.282017,0.597576 -2.870141,0.318192 -5.668299,1.050471 -8.529887,1.416755 z" id="path26935" inkscape:label="top" />
+      <path id="path27065" style="display:inline;fill:#1a1a1a;stroke:#000000;stroke-width:0.999999px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" d="m 227.87109,144.42383 c -9.64612,0.15843 -19.32728,0.29191 -28.92382,1.33203 -10.7899,1.63507 -21.8582,2.66423 -32.09961,6.65039 -0.41629,1.74725 -0.82048,3.49637 -1.20118,5.25195 l -2.08007,10.85742 c 10.81545,-1.38438 21.3905,-4.1509 32.23828,-5.35351 16.61405,-2.54595 33.44441,-2.25761 50.19922,-2.25977 12.12947,0.72949 24.36835,0.97834 36.38867,2.95899 0.35873,-0.43621 0.5752,-1.00122 0.69336,-1.65625 -0.29538,-3.75603 -0.55897,-7.51414 -0.81446,-11.27344 -2.01009,-2.2081 -6.88528,-1.84754 -9.95898,-2.97852 -14.62198,-2.85711 -29.59518,-3.09273 -44.44141,-3.52929 z" transform="scale(0.26458333)" sodipodi:insensitive="true" inkscape:label="bottom" />
+      <text xml:space="preserve" style="font-style:normal;font-weight:normal;font-size:6.35px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.264583" x="56.544556" y="35.532532" id="text33255" inkscape:label="text"><tspan sodipodi:role="line" id="tspan33253" style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:6.35px;font-family:Kartika;-inkscape-font-specification:'Kartika Bold';stroke-width:0.264583" x="56.544556" y="35.532532">L2</tspan></text>
+    </g>
+  </g>
+</svg>
