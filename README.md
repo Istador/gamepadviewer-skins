@@ -3,7 +3,9 @@
 
 ## PlayStation 4
 
-[![A screenshot showing a preview of the penguin skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ds4/penguin/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ds4/penguin/style.css)
+### Penguin
+
+[![A screenshot showing a preview of the penguin skin](https://raw.githubusercontent.com/Istador/gamepadviewer-skins/public/playstation/ps4/penguin/preview.png "Penguin Skin")](https://gamepadviewer.com/?p=1&css=https://istador.github.io/gamepadviewer-skins/playstation/ps4/penguin/style.css)
 
 
 ## GameBoy Advance
