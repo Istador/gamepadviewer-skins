@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <!-- Generator: Adobe Illustrator 19.0.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 
-<svg version="1.1" id="Layer_1" x="0px" y="0px" width="243.80646mm" height="243.80779mm" viewBox="-816 494 921.4733 921.47832" xml:space="preserve" sodipodi:docname="sticks.svg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs59" /><sodipodi:namedview id="namedview57" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="0.51311189" inkscape:cx="468.70869" inkscape:cy="416.08858" inkscape:window-width="1620" inkscape:window-height="970" inkscape:window-x="3921" inkscape:window-y="53" inkscape:window-maximized="0" inkscape:current-layer="Layer_1" units="mm" fit-margin-top="10" lock-margins="true" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" width="243.80646mm" height="279.39847mm" inkscape:document-units="mm" />
+<svg version="1.1" id="Layer_1" x="0px" y="0px" width="243.80646mm" height="243.80779mm" viewBox="-816 494 921.4733 921.47832" xml:space="preserve" sodipodi:docname="sticks.svg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg"><defs id="defs59" /><sodipodi:namedview id="namedview57" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="0" showgrid="false" inkscape:zoom="0.51311189" inkscape:cx="468.70869" inkscape:cy="416.08858" inkscape:window-width="1620" inkscape:window-height="970" inkscape:window-x="164" inkscape:window-y="39" inkscape:window-maximized="0" inkscape:current-layer="Layer_1" units="mm" fit-margin-top="10" lock-margins="true" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" width="243.80646mm" height="279.39847mm" inkscape:document-units="mm" />
 <style type="text/css" id="style2">
 	.st0{fill:#C1272D;}
 	.st1{fill:#CF2A32;}
@@ -41,22 +41,22 @@
 <g id="g1685" inkscape:label="normal" transform="translate(20.411723,-60.799743)"><g id="g16" inkscape:label="R3" transform="matrix(0.85728837,0,0,0.85728837,-44.890533,82.124694)">
 		<g id="g14">
 			<g id="g10">
-				<path class="st0" d="m -769,586.5 c -25.1,0 -45.5,-20.4 -45.5,-45.5 0,-25.1 20.4,-45.5 45.5,-45.5 25.1,0 45.5,20.4 45.5,45.5 0,25.1 -20.4,45.5 -45.5,45.5 z" id="path4" style="fill:#f2f2f2" />
+				<path class="st0" d="m -769,586.5 c -25.1,0 -45.5,-20.4 -45.5,-45.5 0,-25.1 20.4,-45.5 45.5,-45.5 25.1,0 45.5,20.4 45.5,45.5 0,25.1 -20.4,45.5 -45.5,45.5 z" id="path4" style="fill:#4d4d4d;fill-opacity:1" />
 				<g id="g8">
-					<path class="st1" d="m -769,497 c 24.3,0 44,19.7 44,44 0,24.3 -19.7,44 -44,44 -24.3,0 -44,-19.7 -44,-44 0,-24.3 19.7,-44 44,-44 m 0,-3 c -26,0 -47,21 -47,47 0,26 21,47 47,47 26,0 47,-21 47,-47 0,-26 -21,-47 -47,-47 z" id="path6" style="fill:#b3b3b3" />
+					<path class="st1" d="m -769,497 c 24.3,0 44,19.7 44,44 0,24.3 -19.7,44 -44,44 -24.3,0 -44,-19.7 -44,-44 0,-24.3 19.7,-44 44,-44 m 0,-3 c -26,0 -47,21 -47,47 0,26 21,47 47,47 26,0 47,-21 47,-47 0,-26 -21,-47 -47,-47 z" id="path6" style="fill:#1a1a1a;fill-opacity:1" />
 				</g>
 			</g>
-			<circle class="st2" cx="-769" cy="541" r="27.299999" id="circle12" style="fill:#ffffff" />
+			<circle class="st2" cx="-769" cy="541" r="27.299999" id="circle12" style="fill:#666666;fill-opacity:1" />
 		</g>
 	</g><g id="g1669" inkscape:label="L3" transform="matrix(0.85728837,0,0,0.85728837,-133.01414,82.124694)">
 		<g id="g1667">
 			<g id="g1663">
-				<path class="st0" d="m -769,586.5 c -25.1,0 -45.5,-20.4 -45.5,-45.5 0,-25.1 20.4,-45.5 45.5,-45.5 25.1,0 45.5,20.4 45.5,45.5 0,25.1 -20.4,45.5 -45.5,45.5 z" id="path1657" style="fill:#f2f2f2" />
+				<path class="st0" d="m -769,586.5 c -25.1,0 -45.5,-20.4 -45.5,-45.5 0,-25.1 20.4,-45.5 45.5,-45.5 25.1,0 45.5,20.4 45.5,45.5 0,25.1 -20.4,45.5 -45.5,45.5 z" id="path1657" style="fill:#4d4d4d;fill-opacity:1" />
 				<g id="g1661">
-					<path class="st1" d="m -769,497 c 24.3,0 44,19.7 44,44 0,24.3 -19.7,44 -44,44 -24.3,0 -44,-19.7 -44,-44 0,-24.3 19.7,-44 44,-44 m 0,-3 c -26,0 -47,21 -47,47 0,26 21,47 47,47 26,0 47,-21 47,-47 0,-26 -21,-47 -47,-47 z" id="path1659" style="fill:#b3b3b3" />
+					<path class="st1" d="m -769,497 c 24.3,0 44,19.7 44,44 0,24.3 -19.7,44 -44,44 -24.3,0 -44,-19.7 -44,-44 0,-24.3 19.7,-44 44,-44 m 0,-3 c -26,0 -47,21 -47,47 0,26 21,47 47,47 26,0 47,-21 47,-47 0,-26 -21,-47 -47,-47 z" id="path1659" style="fill:#1a1a1a;fill-opacity:1" />
 				</g>
 			</g>
-			<circle class="st2" cx="-769" cy="541" r="27.299999" id="circle1665" style="fill:#ffffff" />
+			<circle class="st2" cx="-769" cy="541" r="27.299999" id="circle1665" style="fill:#666666;fill-opacity:1" />
 		</g>
 	</g></g></g>
 </svg>
