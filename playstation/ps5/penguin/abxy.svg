@@ -1,0 +1,172 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="321.99429mm" height="165.99692mm" viewBox="0 0 321.9943 165.99692" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="abxy.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title63815">PS5 DualSense Controller</title>
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="10" fit-margin-left="10" fit-margin-right="10" fit-margin-bottom="10" inkscape:zoom="0.70710678" inkscape:cx="598.21234" inkscape:cy="295.57063" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="1964" inkscape:window-y="16" inkscape:window-maximized="0" inkscape:current-layer="svg5" inkscape:showpageshadow="false" />
+  <defs id="defs2">
+    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
+    </linearGradient>
+    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
+    </linearGradient>
+    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
+    </linearGradient>
+    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
+    </linearGradient>
+  </defs>
+  <style type="text/css" id="style2">
+	.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}
+</style>
+  <style type="text/css" id="style2-5">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
+</style>
+  <metadata id="metadata63811">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>PS5 DualSense Controller</dc:title>
+        <dc:date>2024-03-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robin Christopher Ladiges</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://rcl.blackpinguin.de/</dc:source>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+  <g id="g286" inkscape:label="pressed" transform="matrix(3.8978512,0,0,3.8978512,-698.3433,-328.83471)">
+    <g id="g258" inkscape:label="triag_btn" transform="translate(31.058356,37.908219)">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:#ff7f27;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle254" cx="219.42285" cy="77.753586" r="8.3225279" inkscape:label="triag_bg" />
+      <g id="g988" inkscape:label="outer" style="display:inline" transform="translate(-0.00529057)">
+        <path id="path256" style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="triag_sym" d="m 219.17773,72.314453 c -1.65316,2.926705 -3.29736,5.863376 -4.94531,8.794922 3.45834,0 6.91667,0 10.375,0 -1.77153,-2.999321 -3.54248,-5.998984 -5.31445,-8.998047 -0.0384,0.06771 -0.0768,0.135417 -0.11524,0.203125 z" />
+        <path id="path948" style="fill:#2020df;fill-opacity:1;stroke:none;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="triag_sym" d="m 214.3457,75.039062 c 1.6482,2.93344 3.29552,5.867396 4.94727,8.798829 1.7703,-3.001346 3.54316,-6.00119 5.31445,-9.001953 -3.45768,0 -6.91536,-10e-7 -10.37304,0 0.0371,0.06771 0.0742,0.135416 0.11132,0.203124 z" />
+      </g>
+      <g id="g1464" inkscape:label="inner" transform="translate(0.01965363)">
+        <path id="path990" style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="triag_sym" d="m 216.56641,79.742188 c 1.88606,0 3.77213,-10e-7 5.6582,0 -0.96484,-1.636719 -1.92969,-3.273438 -2.89453,-4.910157 -0.92123,1.636719 -1.84245,3.273438 -2.76367,4.910157 z" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 217.40342,76.990977 1.0342,0.587953" id="path1323" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.97782,77.791715 1.35313,-0.769266" id="path1325" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.32812,78.911236 v 2.016551" id="path1327" />
+      </g>
+    </g>
+    <g id="g264" inkscape:label="quad_btn" transform="translate(30.06912,19.067063)">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:#ff7f27;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle260" cx="200.4014" cy="96.594742" r="8.3225279" inkscape:label="quad_bg" />
+      <g id="g1601" inkscape:label="outer">
+        <path id="rect262" style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="quad_sym" d="m 196.15625,92.486328 c 0,2.784505 0,5.569011 0,8.353512 2.83008,0 5.66016,0 8.49023,0 0,-2.830074 0,-5.660153 0,-8.490231 -2.83007,0 -5.66015,0 -8.49023,0 v 0.1 z" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.52767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1522" width="10.262064" height="3.8482742" x="195.27037" y="94.670601" inkscape:label="horitontal" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.371946;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1560" width="3.8482742" height="10.262064" x="198.47726" y="91.463707" inkscape:label="vertical" />
+      </g>
+      <g id="g1720" inkscape:label="inner">
+        <path id="rect1603" style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="quad_sym" d="m 197.52344,99.472656 c 1.91862,0 3.83724,0 5.75586,0 0,-1.91862 0,-3.837239 0,-5.755859 -1.91862,0 -3.83724,0 -5.75586,0 0,1.91862 0,3.837239 0,5.755859 z" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 196.40691,96.594726 h 7.98892" id="path1647" inkscape:label="horizontal" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 200.40137,92.540645 v 8.108165" id="path1649" inkscape:label="vertical" />
+      </g>
+    </g>
+    <g id="g270" inkscape:label="circle_btn" transform="translate(-27.804194,19.157204)" style="display:inline">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:#ff7f27;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle266" cx="238.26402" cy="96.504601" r="8.3225279" inkscape:label="circle_bg" />
+      <g id="g2008" inkscape:label="outer">
+        <path id="circle268" style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="circle_sym" d="m 238.24219,91.519531 c -2.57224,-0.01444 -4.93765,2.212885 -4.93953,4.813193 -0.16836,2.628223 2.10128,5.089936 4.73499,5.130146 2.57479,0.19242 5.02204,-1.955477 5.17545,-4.534441 0.34789,-2.852366 -2.12649,-5.473046 -4.97091,-5.408898 z" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.552006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1522-7" width="10.992816" height="3.2962675" x="232.76761" y="94.856468" inkscape:label="horitontal" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.40038;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1560-6" width="3.448" height="11.144443" x="236.54002" y="90.932381" inkscape:label="vertical" />
+      </g>
+      <g id="g1909" inkscape:label="inner">
+        <path id="circle1867" style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="circle_sym" d="m 237.92578,92.876953 c -2.49863,0.213874 -4.22601,3.434768 -2.73489,5.52941 1.1902,2.006947 4.45089,2.318327 5.86798,0.38926 1.42121,-1.68695 0.88547,-4.634963 -1.18582,-5.539764 -0.60127,-0.295071 -1.27964,-0.422574 -1.94727,-0.378906 z" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 238.26402,91.373567 v 10.262063" id="path1649-6" inkscape:label="vertical" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 233.13299,96.504601 h 10.26206" id="path1647-1" inkscape:label="horizontal" />
+      </g>
+    </g>
+    <g id="g14211" inkscape:label="x_btn" transform="translate(-29.063875,0.13575795)">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:#ff7f27;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle272" cx="219.51302" cy="115.52605" r="8.3225279" inkscape:label="x_bg" />
+      <g id="g13314" inkscape:label="inner" transform="translate(0.07030335,0.09933135)">
+        <rect style="display:inline;fill:#ff7f27;fill-opacity:1;stroke:#ff7f27;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect11558" width="5.131032" height="2.565516" x="234.22293" y="-74.833176" inkscape:label="conture1" transform="rotate(45)" />
+        <rect style="display:inline;fill:#ff7f27;fill-opacity:1;stroke:#ff7f27;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect12442" width="5.131032" height="2.565516" x="-76.115936" y="-238.0712" transform="rotate(135)" inkscape:label="conture2" />
+        <rect style="display:inline;fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect12444" width="6.4137902" height="1.5393096" x="233.58154" y="-74.320068" transform="rotate(45)" inkscape:label="fill1" />
+        <rect style="display:inline;fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect13308" width="6.4137902" height="1.5393096" x="-76.757309" y="-237.55809" transform="rotate(135)" inkscape:label="fill2" />
+      </g>
+      <g id="g13322" inkscape:label="outer" transform="translate(0.04231024,0.04167175)">
+        <g id="g282" style="display:inline;fill:none;stroke:#7cb2e8;stroke-width:0.513103;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="x_sym" transform="translate(0.10222056,-0.28060325)">
+          <path style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 4.72352,4.72356 z" id="path2100" inkscape:label="x_bottom_right" />
+          <path style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 -4.72352,4.72356 z" id="path2097" inkscape:label="x_bottom_left" />
+          <path style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 4.72356,-4.72352 z" id="path2094" inkscape:label="x_top_right" />
+          <path style="fill:none;stroke:#ff7f27;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 -4.72356,-4.72352 z" id="path280" inkscape:label="x_top_left" />
+        </g>
+        <path id="path2103" style="display:inline;fill:none;stroke:#2020df;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="quad_sym" d="m 219.375,109.97852 c -1.83529,1.83528 -3.67057,3.67057 -5.50586,5.50586 1.86719,1.86718 3.73438,3.73437 5.60156,5.60156 1.86719,-1.86719 3.73438,-3.73438 5.60157,-5.60156 -1.86719,-1.86719 -3.73438,-3.73438 -5.60157,-5.60157 l -0.0707,0.0707 z" />
+      </g>
+    </g>
+  </g>
+  <g id="g1577" inkscape:label="normal" transform="matrix(3.8978512,0,0,3.8978512,-698.3433,-406.83339)">
+    <g id="g1507" inkscape:label="triag_btn" transform="translate(31.058356,37.908219)">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle1489" cx="219.42285" cy="77.753586" r="8.3225279" inkscape:label="triag_bg" />
+      <g id="g1495" inkscape:label="outer" style="display:inline" transform="translate(-0.00529057)">
+        <path id="path1491" style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="triag_sym" d="m 219.17773,72.314453 c -1.65316,2.926705 -3.29736,5.863376 -4.94531,8.794922 3.45834,0 6.91667,0 10.375,0 -1.77153,-2.999321 -3.54248,-5.998984 -5.31445,-8.998047 -0.0384,0.06771 -0.0768,0.135417 -0.11524,0.203125 z" />
+        <path id="path1493" style="fill:#2020df;fill-opacity:1;stroke:none;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="triag_sym" d="m 214.3457,75.039062 c 1.6482,2.93344 3.29552,5.867396 4.94727,8.798829 1.7703,-3.001346 3.54316,-6.00119 5.31445,-9.001953 -3.45768,0 -6.91536,-10e-7 -10.37304,0 0.0371,0.06771 0.0742,0.135416 0.11132,0.203124 z" />
+      </g>
+      <g id="g1505" inkscape:label="inner" transform="translate(0.01965363)">
+        <path id="path1497" style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="triag_sym" d="m 216.56641,79.742188 c 1.88606,0 3.77213,-10e-7 5.6582,0 -0.96484,-1.636719 -1.92969,-3.273438 -2.89453,-4.910157 -0.92123,1.636719 -1.84245,3.273438 -2.76367,4.910157 z" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 217.40342,76.990977 1.0342,0.587953" id="path1499" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.97782,77.791715 1.35313,-0.769266" id="path1501" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.32812,78.911236 v 2.016551" id="path1503" />
+      </g>
+    </g>
+    <g id="g1527" inkscape:label="quad_btn" transform="translate(30.06912,19.067063)">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle1509" cx="200.4014" cy="96.594742" r="8.3225279" inkscape:label="quad_bg" />
+      <g id="g1517" inkscape:label="outer">
+        <path id="path1511" style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="quad_sym" d="m 196.15625,92.486328 c 0,2.784505 0,5.569011 0,8.353512 2.83008,0 5.66016,0 8.49023,0 0,-2.830074 0,-5.660153 0,-8.490231 -2.83007,0 -5.66015,0 -8.49023,0 v 0.1 z" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.52767;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1513" width="10.262064" height="3.8482742" x="195.27037" y="94.670601" inkscape:label="horitontal" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.371946;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1515" width="3.8482742" height="10.262064" x="198.47726" y="91.463707" inkscape:label="vertical" />
+      </g>
+      <g id="g1525" inkscape:label="inner">
+        <path id="path1519" style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="quad_sym" d="m 197.52344,99.472656 c 1.91862,0 3.83724,0 5.75586,0 0,-1.91862 0,-3.837239 0,-5.755859 -1.91862,0 -3.83724,0 -5.75586,0 0,1.91862 0,3.837239 0,5.755859 z" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 196.40691,96.594726 h 7.98892" id="path1521" inkscape:label="horizontal" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 200.40137,92.540645 v 8.108165" id="path1523" inkscape:label="vertical" />
+      </g>
+    </g>
+    <g id="g1547" inkscape:label="circle_btn" transform="translate(-27.804194,19.157204)" style="display:inline">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle1529" cx="238.26402" cy="96.504601" r="8.3225279" inkscape:label="circle_bg" />
+      <g id="g1537" inkscape:label="outer">
+        <path id="path1531" style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="circle_sym" d="m 238.24219,91.519531 c -2.57224,-0.01444 -4.93765,2.212885 -4.93953,4.813193 -0.16836,2.628223 2.10128,5.089936 4.73499,5.130146 2.57479,0.19242 5.02204,-1.955477 5.17545,-4.534441 0.34789,-2.852366 -2.12649,-5.473046 -4.97091,-5.408898 z" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.552006;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1533" width="10.992816" height="3.2962675" x="232.76761" y="94.856468" inkscape:label="horitontal" />
+        <rect style="fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.40038;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1535" width="3.448" height="11.144443" x="236.54002" y="90.932381" inkscape:label="vertical" />
+      </g>
+      <g id="g1545" inkscape:label="inner">
+        <path id="path1539" style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="circle_sym" d="m 237.92578,92.876953 c -2.49863,0.213874 -4.22601,3.434768 -2.73489,5.52941 1.1902,2.006947 4.45089,2.318327 5.86798,0.38926 1.42121,-1.68695 0.88547,-4.634963 -1.18582,-5.539764 -0.60127,-0.295071 -1.27964,-0.422574 -1.94727,-0.378906 z" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 238.26402,91.373567 v 10.262063" id="path1541" inkscape:label="vertical" />
+        <path style="fill:none;stroke:#2020df;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 233.13299,96.504601 h 10.26206" id="path1543" inkscape:label="horizontal" />
+      </g>
+    </g>
+    <g id="g1575" inkscape:label="x_btn" transform="translate(-29.063875,0.13575795)">
+      <circle style="opacity:1;fill:#2020df;fill-opacity:1;stroke:none;stroke-width:0.8;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="circle1549" cx="219.51302" cy="115.52605" r="8.3225279" inkscape:label="x_bg" />
+      <g id="g1559" inkscape:label="inner" transform="translate(0.07030335,0.09933135)">
+        <rect style="display:inline;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1551" width="5.131032" height="2.565516" x="234.22293" y="-74.833176" inkscape:label="conture1" transform="rotate(45)" />
+        <rect style="display:inline;fill:#666666;fill-opacity:1;stroke:#666666;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1553" width="5.131032" height="2.565516" x="-76.115936" y="-238.0712" transform="rotate(135)" inkscape:label="conture2" />
+        <rect style="display:inline;fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1555" width="6.4137902" height="1.5393096" x="233.58154" y="-74.320068" transform="rotate(45)" inkscape:label="fill1" />
+        <rect style="display:inline;fill:#2020df;fill-opacity:1;stroke:#2020df;stroke-width:0.384827;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" id="rect1557" width="6.4137902" height="1.5393096" x="-76.757309" y="-237.55809" transform="rotate(135)" inkscape:label="fill2" />
+      </g>
+      <g id="g1573" inkscape:label="outer" transform="translate(0.04231024,0.04167175)">
+        <g id="g1569" style="display:inline;fill:none;stroke:#7cb2e8;stroke-width:0.513103;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="x_sym" transform="translate(0.10222056,-0.28060325)">
+          <path style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 4.72352,4.72356 z" id="path1561" inkscape:label="x_bottom_right" />
+          <path style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 -4.72352,4.72356 z" id="path1563" inkscape:label="x_bottom_left" />
+          <path style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 4.72356,-4.72352 z" id="path1565" inkscape:label="x_top_right" />
+          <path style="fill:none;stroke:#666666;stroke-width:0.769655;stroke-linecap:butt;stroke-linejoin:bevel;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 219.36893,115.76477 -4.72356,-4.72352 z" id="path1567" inkscape:label="x_top_left" />
+        </g>
+        <path id="path1571" style="display:inline;fill:none;stroke:#2020df;stroke-width:0.769655;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" inkscape:label="quad_sym" d="m 219.375,109.97852 c -1.83529,1.83528 -3.67057,3.67057 -5.50586,5.50586 1.86719,1.86718 3.73438,3.73437 5.60156,5.60156 1.86719,-1.86719 3.73438,-3.73438 5.60157,-5.60156 -1.86719,-1.86719 -3.73438,-3.73438 -5.60157,-5.60157 l -0.0707,0.0707 z" />
+      </g>
+    </g>
+  </g>
+</svg>

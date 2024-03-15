@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg width="421.33984mm" height="211.09808mm" viewBox="0 0 421.33984 211.09808" version="1.1" id="svg5" inkscape:label="quad_bg" inkscape:version="1.1.2 (b8e25be833, 2022-02-05)" sodipodi:docname="lightbar.svg" xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <title id="title63815">PS5 DualSense Controller</title>
+  <sodipodi:namedview id="namedview7" pagecolor="#ffffff" bordercolor="#666666" borderopacity="1.0" inkscape:pageshadow="2" inkscape:pageopacity="0.0" inkscape:pagecheckerboard="true" inkscape:document-units="mm" showgrid="false" fit-margin-top="0" fit-margin-left="0" fit-margin-right="0" fit-margin-bottom="0" inkscape:zoom="0.23988415" inkscape:cx="783.71164" inkscape:cy="975.47087" inkscape:window-width="1833" inkscape:window-height="1015" inkscape:window-x="1955" inkscape:window-y="15" inkscape:window-maximized="0" inkscape:current-layer="svg5" inkscape:showpageshadow="false" lock-margins="true" />
+  <defs id="defs2">
+    <linearGradient inkscape:collect="always" id="linearGradient10241">
+      <stop style="stop-color:#000000;stop-opacity:1" offset="0" id="stop10237" />
+      <stop style="stop-color:#0000ff;stop-opacity:1" offset="1" id="stop10239" />
+    </linearGradient>
+    <linearGradient id="linearGradient8705" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8703" />
+    </linearGradient>
+    <linearGradient id="linearGradient8655" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8653" />
+    </linearGradient>
+    <linearGradient id="linearGradient8629" inkscape:swatch="solid">
+      <stop style="stop-color:#0000ff;stop-opacity:1;" offset="0" id="stop8627" />
+    </linearGradient>
+    <linearGradient id="linearGradient8541" inkscape:swatch="solid">
+      <stop style="stop-color:#000000;stop-opacity:1;" offset="0" id="stop8539" />
+    </linearGradient>
+    <radialGradient inkscape:collect="always" xlink:href="#linearGradient10241" id="radialGradient10243" cx="932.40826" cy="523.57587" fx="932.40826" fy="523.57587" r="204.27481" gradientTransform="matrix(1.0140261,-1.0201753,1.02842,1.0220786,-1272.8049,625.93472)" gradientUnits="userSpaceOnUse" />
+  </defs>
+  <path id="path9262" style="display:inline;fill:url(#radialGradient10243);fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:1.03293;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" d="m 408.49398,1.403307 c 1.28317,2.38902 2.01297,4.99601 1.68189,7.84961 -5.54813,46.79235 -18.336,92.428783 -26.8905,138.734893 -2.98829,23.95872 -21.42719,46.75756 -46.61826,48.34651 -82.43,0.53304 -164.8754,-0.53516 -247.302059,0.016 -21.50422,1.8447 -41.89126,-12.83946 -48.84808,-32.91318 -10.24618,-42.43141 -18.8506,-85.285283 -28.00843,-127.970633 -3.9676597,-11.5443 -4.7527297,-23.8791 0.18129,-33.66249 -1.4596,1.55303 -3.0363997,2.99876 -4.8785597,4.19775 -12.5664895,8.4681 -5.51797,24.15325 -3.51691,36.03529 5.19608,31.72316 15.1714797,62.515473 19.8747997,94.273903 0.16741,0.68262 0.27148,1.37498 0.42099,2.0606 1.71819,4.20236 1.46197,9.65404 3.0919,13.91256 2.61068,15.27278 7.86606,30.76813 19.92516,41.18378 8.32353,8.29033 19.29497,14.96447 30.99157,16.57745 53.357389,1.10595 106.752259,0.1027 160.124409,0.43709 33.69813,-0.0838 67.46522,0.28996 101.12039,-0.0725 26.34137,-4.06277 47.05607,-26.74474 52.24618,-52.39117 1.29101,-4.41604 2.62052,-8.82064 3.93387,-13.22974 2.12608,-16.87786 8.12164,-33.29605 10.60714,-50.16943 4.74474,-25.465663 12.20055,-50.687653 14.18448,-76.501993 -2.76647,-6.51574 -7.83796,-11.44913 -12.32127,-16.71442 z" inkscape:label="lightbar" />
+  <style type="text/css" id="style2">
+	.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}
+</style>
+  <style type="text/css" id="style2-5">
+	.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}
+</style>
+  <metadata id="metadata63811">
+    <rdf:RDF>
+      <cc:Work rdf:about="">
+        <cc:license rdf:resource="http://creativecommons.org/licenses/by-nc-sa/4.0/" />
+        <dc:title>PS5 DualSense Controller</dc:title>
+        <dc:date>2024-03-14</dc:date>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>Robin Christopher Ladiges</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:source>https://rcl.blackpinguin.de/</dc:source>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/by-nc-sa/4.0/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Notice" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#Attribution" />
+        <cc:prohibits rdf:resource="http://creativecommons.org/ns#CommercialUse" />
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks" />
+        <cc:requires rdf:resource="http://creativecommons.org/ns#ShareAlike" />
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
